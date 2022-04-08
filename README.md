@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-### My Coding Stata
+### My Coding Stats
 
 <p>
     <img width="600"  
