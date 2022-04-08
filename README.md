@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 
 ##### 👨‍💻 I’m a Sofware & Web developer / AI & ML Engineer
+##### I am a social and kind person who is always ready to learn from others and share my knowledge and this is a small description of what I do on a daily basis.
+
+
+##### 🔭 I’m currently working on language models and Ranking models base for the most of dem on BERT
 
 
 ### My favorite programming language:
@@ -51,6 +55,8 @@ Here are some ideas to get you started:
 [![Zaker's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zaker237&theme=xcode)](https://github.com/Zaker237)
 
 [![wakatime-stats](https://github.com/Zaker237/Zaker237/blob/main/images/stat.svg)](https://wakatime.com/@Zaker237)
+
+<img width="400" src="https://wakatime.com/share/@Zaker237/8846e881-f93b-439d-9559-7f3ede5e7ee9.svg"></img>
 
 
 ### Social media
