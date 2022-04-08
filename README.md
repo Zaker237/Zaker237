@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 i'm Alex Mboutchouang
 
 
 <!--
@@ -16,6 +16,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+##### 👨‍💻 I’m a Sofware & Web developer / AI & ML Engineer
+
+
+### My favorite programming language:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="Java" width="50" height="50" />
+
+
+### My favorite Web Framework:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJs" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="50" height="50" />
+
+
+### My favorite AI/ML Framework:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="Tensorflow" width="70" height="70" />
+
+
+### My favorite DevOps tools:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="50" height="50" />
 
 ### My Coding Stats
 
