@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **Zaker237/Zaker237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Gautier's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zaker237&theme=xcode)](https://github.com/Zaker237)
+
+
+### Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/Zaker237/count.svg" alt ="Loading">
+
+<br />
