@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 [![wakatime-stats](https://github.com/Zaker237/Zaker237/blob/main/images/stat.svg)](https://wakatime.com/@Zaker237)
 
 
+### Social media
+
+![Twitter Follow](https://img.shields.io/twitter/follow/Zaker237?label=follow%20me%20on%20twitter&style=social)
+
+
 ### Visitors Count
 
 <img align="left" src = "https://profile-counter.glitch.me/Zaker237/count.svg" alt ="Loading">
