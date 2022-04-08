@@ -16,7 +16,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Gautier's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zaker237&theme=xcode)](https://github.com/Zaker237)
+
+### My Coding Stata
+
+<p>
+    <img width="600"  
+         src="https://metrics.lecoq.io/Zaker237" 
+         alt="Zker Github Metrics"
+     />
+</p>
+
+[![Zaker's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zaker237&theme=xcode)](https://github.com/Zaker237)
+
+[![wakatime-stats](https://github.com/Zaker237/Zaker237/blob/main/images/stat.svg)](https://wakatime.com/@Zaker237)
 
 
 ### Visitors Count
