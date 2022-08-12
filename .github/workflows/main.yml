@@ -22,11 +22,11 @@ jobs:
           # Manual Commit messages - write your own messages here
           COMMIT_MSG: "Wakatime Automated Coding Activity Update"
 
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@v0.1.5
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          GH_TOKEN: ${{ github.token }}
+          #GH_TOKEN: ${{ github.token }}
           BLOCKS: ->
           TIME_RANGE: all_time
           SHOW_TIME: true
