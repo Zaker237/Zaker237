@@ -22,11 +22,14 @@ jobs:
           # Manual Commit messages - write your own messages here
           COMMIT_MSG: "Wakatime Automated Coding Activity Update"
 
-      - uses: athul/waka-readme@v0.1.5
+  update-readme-all:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          #GH_TOKEN: ${{ github.token }}
           BLOCKS: ->
           TIME_RANGE: all_time
           SHOW_TIME: true
