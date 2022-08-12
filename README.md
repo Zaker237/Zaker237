@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 
 <img width="400" src="https://wakatime.com/share/@Zaker237/8846e881-f93b-439d-9559-7f3ede5e7ee9.svg"></img>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ### Social media
 
