@@ -69,10 +69,10 @@ Here are some ideas to get you started:
 ```text
 From: 25 March 2021 - To: 12 August 2022
 
-Total Time: 2,005 hrs 27 mins
+Total Time: 2,005 hrs 46 mins
 
-Python                     1,071 hrs 54 mins>>>>>>>>>>>>-------------   47.89 %
-JavaScript                 372 hrs 50 mins >>>>---------------------   16.66 %
+Python                     1,072 hrs 13 mins>>>>>>>>>>>>-------------   47.89 %
+JavaScript                 372 hrs 50 mins >>>>---------------------   16.65 %
 Vue.js                     282 hrs 56 mins >>>----------------------   12.64 %
 HTML                       121 hrs 42 mins >------------------------   05.44 %
 YAML                       93 hrs 29 mins  >------------------------   04.18 %
