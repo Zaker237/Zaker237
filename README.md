@@ -63,15 +63,20 @@ Here are some ideas to get you started:
 <img width="400" src="https://wakatime.com/share/@Zaker237/8846e881-f93b-439d-9559-7f3ede5e7ee9.svg"></img>
 
 <!--START_SECTION:waka-->
-```text
-Week: 04 August, 2022 - 11 August, 2022
 
-Python       19 hrs 42 mins  >>>>>>>>>>>>>>>>>--------   68.61 % 
-JavaScript   2 hrs 53 mins   >>>----------------------   10.07 % 
-YAML         1 hr 40 mins    >------------------------   05.86 % 
-Other        1 hr 26 mins    >------------------------   05.02 % 
-JSON         47 mins         >------------------------   02.73 % 
+```text
+From: 25 March 2021 - To: 12 August 2022
+
+Total Time: 2,005 hrs 27 mins
+
+Python                     1,071 hrs 54 mins>>>>>>>>>>>>-------------   47.89 %
+JavaScript                 372 hrs 50 mins >>>>---------------------   16.66 %
+Vue.js                     282 hrs 56 mins >>>----------------------   12.64 %
+HTML                       121 hrs 42 mins >------------------------   05.44 %
+YAML                       93 hrs 29 mins  >------------------------   04.18 %
+Other                      57 hrs 14 mins  >------------------------   02.56 %
 ```
+
 <!--END_SECTION:waka-->
 
 
