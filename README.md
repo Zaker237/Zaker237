@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ##### I am a social and kind person who is always ready to learn from others and share my knowledge and this is a small description of what I do on a daily basis.
 
 
-##### 🔭 I’m currently working on Natural Language Processing and Ranking models base on them on BERT
+##### 🔭 I’m currently working on Natural Language Processing and Ranking models base on BERT
 
 
 ### My Tools:
