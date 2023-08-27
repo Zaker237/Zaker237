@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2021 - To: 24 August 2023
+From: 25 March 2021 - To: 25 August 2023
 
-Total Time: 3,889 hrs 2 mins
+Total Time: 3,889 hrs 11 mins
 
 Python                     1,765 hrs 43 mins>>>>>>>>>>>--------------   45.40 %
 JavaScript                 532 hrs 15 mins >>>----------------------   13.69 %
