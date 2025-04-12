@@ -17,11 +17,8 @@ Here are some ideas to get you started:
 -->
 
 
-##### 👨‍💻 I’m a Sofware & Web developer / AI & ML Engineer
-##### I am a social and kind person who is always ready to learn from others and share my knowledge and this is a small description of what I do on a daily basis.
-
-
-##### 🔭 I’m currently working on Natural Language Processing and Ranking models base on BERT
+##### 👨‍💻 Python Developer & Azure Cloud Specialist
+##### I'm a Python developer with a passion for building both small and large-scale applications that solve real-world problems. I'm also a tech enthusiast who loves to learn new technologies and share my knowledge with others. I specialize in working with Azure Cloud to develop, deploy, and manage applications efficiently.
 
 
 ### My Tools:
