@@ -45,15 +45,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2021 - To: 16 July 2025
+From: 25 March 2021 - To: 18 July 2025
 
-Total Time: 8,401 hrs 46 mins
+Total Time: 8,425 hrs 48 mins
 
-Python                     3,424 hrs 40 mins>>>>>>>>>>---------------   40.76 %
-TypeScript                 1,909 hrs       >>>>>>-------------------   22.72 %
-JavaScript                 632 hrs 3 mins  >>-----------------------   07.52 %
-Vue.js                     623 hrs 39 mins >>-----------------------   07.42 %
-JSON                       286 hrs 33 mins >------------------------   03.41 %
+Python                     3,434 hrs 18 mins>>>>>>>>>>---------------   40.76 %
+TypeScript                 1,914 hrs 11 mins>>>>>>-------------------   22.72 %
+JavaScript                 632 hrs 3 mins  >>-----------------------   07.50 %
+Vue.js                     623 hrs 39 mins >>-----------------------   07.40 %
+JSON                       286 hrs 56 mins >------------------------   03.41 %
 ```
 
 <!--END_SECTION:waka-->
